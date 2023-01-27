@@ -1,4 +1,4 @@
-# Monte-Carlo-method-for-solving-the-knapsack-problem
+# Monte-Carlo method for solving the knapsack problem
 This method generates a random encoding, calculates its fitness (cost) and retains the best fitness.
 The method is random and not accurate, and does not give the best solution, but finds a solution close to optimal in a short time.
 
