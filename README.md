@@ -24,7 +24,6 @@ Python, random, typing
 
 ## Контакты
 
-Никитин Евгений
-Telegram: \[[https://t.me/Xobortz](https://t.me/Xobortz)]
-Email: \[[genaj.2000@yandex.ru](mailto:genaj.2000@yandex.ru)]
-GitHub: [https://github.com/XOBORT](https://github.com/XOBORT)
+* Telegram: \[[https://t.me/Xobortz](https://t.me/Xobortz)]
+* Email: \[[genaj.2000@yandex.ru](mailto:genaj.2000@yandex.ru)]
+* Профиль: [https://github.com/XOBORT](https://github.com/XOBORT)
